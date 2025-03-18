@@ -1,6 +1,5 @@
 # ureka-mini-project
-휴대폰 판매 시스템 
-
+swing과 mySQL을 이용한 휴대폰 판매 시스템 
 
 # 사용 기술 
 - java ( swing )
@@ -15,3 +14,9 @@
 
 
 # 실행화면
+![Image](https://github.com/user-attachments/assets/6b15a9d9-69a1-4607-8759-3a6b983890f8)
+![Image](https://github.com/user-attachments/assets/7ed835d0-7185-4da6-ac1b-1b16b73e3ecf)
+![Image](https://github.com/user-attachments/assets/d32074ae-0248-44d3-b81d-741211767992)
+![Image](https://github.com/user-attachments/assets/85ba41bf-4846-4e6c-9977-349586e9a659)
+
+![Image](https://github.com/user-attachments/assets/c86a9a5c-18d4-4cf6-995a-01a8181c4034)
