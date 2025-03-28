@@ -6,6 +6,11 @@ swing과 mySQL을 이용한 휴대폰 판매 시스템
 - mySQL
 - JPA
 
+# 주안점 
+- 본 프로젝트 https://github.com/jmk445/ureca-miniproject.git 에 jpa를 적용한다.
+- 원천기술인 jdbc를 응용해, jpa를 적용하여 어떤 이점이 있는지 알아본다.
+
+
 # ERD
 ![Image](https://github.com/user-attachments/assets/e5a45a1c-623a-4672-b1da-281f7124c3c8)
 
