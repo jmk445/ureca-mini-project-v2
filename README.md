@@ -1,4 +1,4 @@
-# ureca-mini-project
+# ureca-mini-project-v2
 swing과 mySQL을 이용한 휴대폰 판매 시스템 
 
 # 사용 기술 
